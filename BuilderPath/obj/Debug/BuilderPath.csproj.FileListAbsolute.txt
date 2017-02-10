@@ -1,0 +1,6 @@
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\bin\Debug\BuilderPath.exe.config
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\bin\Debug\BuilderPath.exe
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\bin\Debug\BuilderPath.pdb
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\obj\Debug\BuilderPath.exe
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\obj\Debug\BuilderPath.pdb
+c:\users\alexandr\documents\visual studio 2017\Projects\BuilderPath\BuilderPath\obj\Debug\BuilderPath.csprojResolveAssemblyReference.cache
